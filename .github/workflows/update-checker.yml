@@ -34,7 +34,7 @@ jobs:
         env:
           GIT_CONFIG_COUNT: 1
           GIT_CONFIG_KEY_0: safe.directory
-          GIT_CONFIG_VALUE_0: /github/workspace
+          GIT_CONFIG_VALUE_0: '*'
         with:
           args: --update --edit-only org.astermail.Mail.yml
 
