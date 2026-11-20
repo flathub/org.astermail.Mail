@@ -42,8 +42,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Aster-Privacy/Aster-Mail.git
-        tag: v1.4.83
-        commit: 90319ed11b6ad99b1f938b84000bc65706cced82
+        tag: v1.4.85
+        commit: 4ab4378c7d323a9e39c5e93c77040be464776ed0
         x-checker-data:
           type: git
           is-main-source: true
