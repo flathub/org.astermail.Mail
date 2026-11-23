@@ -3240,6 +3240,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.npmjs.org/country-flag-icons/-/country-flag-icons-1.6.20.tgz",
+        "sha512": "a72f098842b38e1630e873c9d0bed2c4b8026229b7e943d14d95f8dff92a1ae7940992d2be7aea022c16f07b5089bbabee67641505248ce81d2bea3ff4506d6b",
+        "dest-filename": "098842b38e1630e873c9d0bed2c4b8026229b7e943d14d95f8dff92a1ae7940992d2be7aea022c16f07b5089bbabee67641505248ce81d2bea3ff4506d6b",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/a7/2f"
+    },
+    {
+        "type": "file",
         "url": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.6.tgz",
         "sha512": "b95d903963f69d6ceccb668ca7c69189b862f5d9731791e0879487681f4e893184c834e2249cb1d2ecb9d505ddc966ed00736e6b85c9cd429c6b73b3294777bc",
         "dest-filename": "903963f69d6ceccb668ca7c69189b862f5d9731791e0879487681f4e893184c834e2249cb1d2ecb9d505ddc966ed00736e6b85c9cd429c6b73b3294777bc",
@@ -8440,6 +8447,12 @@
         "contents": "56aaa434027cabb495332a1f025472373fbebb5e\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@capacitor/push-notifications/-/push-notifications-6.0.5.tgz\", \"integrity\": \"sha512-CsRmb0cnZd9Uwx24ym4My5fNKrQvwI4D51aMEph5pUZy+LAjp6q0y4NJe8DEgwaVdAqVLbb4rqn75AZ4WSiFYg==\", \"time\": 0, \"size\": 22009, \"metadata\": {\"url\": \"https://registry.npmjs.org/@capacitor/push-notifications/-/push-notifications-6.0.5.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
         "dest-filename": "2ce1e00bf0121a6a23fb3483d55a43c180773728fbcd3da09b06f8c8b4b3",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/2a/5c"
+    },
+    {
+        "type": "inline",
+        "contents": "56befef512ecca5ab0b4554e4c65be9ab801ef97\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/country-flag-icons/-/country-flag-icons-1.6.20.tgz\", \"integrity\": \"sha512-py8JiEKzjhYw6HPJ0L7SxLgCYim36UPRTZX43/kqGueUCZLSvnrqAiwW8HtQibur7mdkFQUkjOgdK+o/9FBtaw==\", \"time\": 0, \"size\": 1118343, \"metadata\": {\"url\": \"https://registry.npmjs.org/country-flag-icons/-/country-flag-icons-1.6.20.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
+        "dest-filename": "4abff579caeacb04df6f154ea439e9154e868a6fd272edcc41e3ada1636a",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/89/89"
     },
     {
         "type": "inline",
